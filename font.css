@@ -1,0 +1,99 @@
+/* PK SamutSakhon - Regular */
+@font-face {
+  font-family: 'PK SamutSakhon';
+  src: url('PK%20SamutSakhon-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-stretch: normal;
+}
+@font-face {
+  font-family: 'PK SamutSakhon';
+  src: url('PK%20SamutSakhon-Regular%20Condensed.ttf') format('truetype');
+  font-weight: 400;
+  font-stretch: condensed;
+}
+@font-face {
+  font-family: 'PK SamutSakhon';
+  src: url('PK%20SamutSakhon-Regular%20Expanded.ttf') format('truetype');
+  font-weight: 400;
+  font-stretch: expanded;
+}
+
+/* PK SamutSakhon - Light */
+@font-face {
+  font-family: 'PK SamutSakhon';
+  src: url('PK%20SamutSakhon-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-stretch: normal;
+}
+@font-face {
+  font-family: 'PK SamutSakhon';
+  src: url('PK%20SamutSakhon-Light%20Condensed.ttf') format('truetype');
+  font-weight: 300;
+  font-stretch: condensed;
+}
+@font-face {
+  font-family: 'PK SamutSakhon';
+  src: url('PK%20SamutSakhon-Light%20Expanded.ttf') format('truetype');
+  font-weight: 300;
+  font-stretch: expanded;
+}
+
+/* PK SamutSakhon - Medium */
+@font-face {
+  font-family: 'PK SamutSakhon';
+  src: url('PK%20SamutSakhon-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-stretch: normal;
+}
+@font-face {
+  font-family: 'PK SamutSakhon';
+  src: url('PK%20SamutSakhon-Medium%20Condensed.ttf') format('truetype');
+  font-weight: 500;
+  font-stretch: condensed;
+}
+@font-face {
+  font-family: 'PK SamutSakhon';
+  src: url('PK%20SamutSakhon-Medium%20Expanded.ttf') format('truetype');
+  font-weight: 500;
+  font-stretch: expanded;
+}
+
+/* PK SamutSakhon - Semi Bold */
+@font-face {
+  font-family: 'PK SamutSakhon';
+  src: url('PK%20SamutSakhon-Semi%20Bold.ttf') format('truetype');
+  font-weight: 600;
+  font-stretch: normal;
+}
+@font-face {
+  font-family: 'PK SamutSakhon';
+  src: url('PK%20SamutSakhon-Semi%20Bold%20Condensed.ttf') format('truetype');
+  font-weight: 600;
+  font-stretch: condensed;
+}
+@font-face {
+  font-family: 'PK SamutSakhon';
+  src: url('PK%20SamutSakhon-Semi%20Bold%20Expanded.ttf') format('truetype');
+  font-weight: 600;
+  font-stretch: expanded;
+}
+
+/* PK SamutSakhon - Bold */
+@font-face {
+  font-family: 'PK SamutSakhon';
+  src: url('PK%20SamutSakhon-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-stretch: normal;
+}
+@font-face {
+  font-family: 'PK SamutSakhon';
+  src: url('PK%20SamutSakhon-Bold%20Condensed.ttf') format('truetype');
+  font-weight: 700;
+  font-stretch: condensed;
+}
+@font-face {
+  font-family: 'PK SamutSakhon';
+  src: url('PK%20SamutSakhon-Bold%20Expanded.ttf') format('truetype');
+  font-weight: 700;
+  font-stretch: expanded;
+}
